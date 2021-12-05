@@ -1,15 +1,17 @@
-#### Run project locally
-##### install yarn global, just run this only once
-`npm i —global yarn`
+#### Run project locally instructions, run commands on Windows Command Propmt or git bash (it doesn't work on PowerShell)
 ##### install packages 
-```npm i react-vertical-timeline-component
+```
+npm i react-vertical-timeline-component
 npm i react-tsparticles
 npm add react-router-dom@6 history@5
-npm i react-bootstrap```
+npm i react-bootstrap
+```
+##### install yarn global, just run this only once
+`npm i —global yarn`
 #####  or use command to install packages
-`yarn`
+`yarn` or `npm i`
 ##### run project 
-`yarn dev`
+`yarn dev` or `npm run dev`
 
 
 
